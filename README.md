@@ -70,3 +70,4 @@ final fileName = await VideoThumbnail.thumbnailFile(
 ## Notes
 Fork or pull requests are always welcome. Currently it seems have a little performance issue while generating WebP thumbnail by using libwebp under iOS.
 Also this is a fork. So this fork is justified due to the lack of support and attention from the main package to build/platform updates.
+[Original repo](https://github.com/justsoft/video_thumbnail)
